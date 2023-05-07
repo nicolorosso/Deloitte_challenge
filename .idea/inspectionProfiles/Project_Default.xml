@@ -1,0 +1,12 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ProgettoEVWay.complete_refactoring.src.ftxcdr_lambda.aws_mock.mock_aws_environment.process_s3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
