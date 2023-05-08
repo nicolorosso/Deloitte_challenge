@@ -9,8 +9,9 @@ The folder 'Deloitte_Challenge' contains all the work done for the modeling part
 - Regression_finals contains the modelling part of the Days of Delivery task
 - Data_Augmentation contains several approaches to the Data augmentation task.
 - Prove_Pazze_vae is an alternative yet experimental approach to the classification task, using more advanced techniques. 
+- The 'SupplyChainDataset.zip' is the original dataset provided by Deloitte. 
+- The 'new_fraud_only' is the synthetic dataset (sliced only on the 'SUSPECTED_FRAUD' observations). They were created through Synthetic Data Vault Python's library. 
 
-The 'SupplyChainDataset.zip' is the original dataset provided by Deloitte. 
-The 'new_fraud_only' is the synthetic dataset (sliced only on the 'SUSPECTED_FRAUD' observations). 
-created through Synthetic Data Vault Python's library. 
+'DeloitteFinalDashboardCode' is the folder containing all the code related to the streaming dashboard. 
+
 
